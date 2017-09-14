@@ -1,0 +1,24 @@
+
+
+Objects
+	Card
+		properties: rank, suit, 
+		methods: init, score
+	Deck
+		methods: init, shuffle
+			deal (returns card)
+	Hand
+		methods: init, add (card), 
+					show, score
+					is_bust()
+
+
+Data types:
+	rank: int
+	suit: string
+	card: pair (tuple)
+	deck: list of cards
+	hand: list of cards
+
+
+

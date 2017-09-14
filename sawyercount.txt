@@ -1,0 +1,4 @@
+north occurs 1 times.
+south occurs 0 times.
+west occurs 2 times.
+east occurs 0 times.

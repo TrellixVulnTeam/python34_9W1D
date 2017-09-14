@@ -1,0 +1,39 @@
+2. for i in range(0, len(m))
+    sum+=m[i][i]
+    return sum
+
+3.for i in range(0, n) #rows
+	
+	for j in range(0, n-i)#columns
+		print *
+	print("\n")
+
+for row in range(0, n)
+	for column in range(0,n)
+		if(i>j)
+			print(" ")
+		else
+			print("*")
+	print("\n")
+
+4.while(sum(lst) < = 0)
+	if(len(lst)==0)
+		print error
+		return
+	
+	lst.remove(lst.min)
+print(lst)
+print(sum(lst)
+
+5.if(n<1)
+	error
+	return
+else
+	print(n +"\n")
+
+while(n!=1)
+	if(n%2 = 0)
+		n=int(n**0.5)
+	else
+		n=int(n**1.5)
+	print(str(n) + "\n")
